@@ -2,20 +2,20 @@
 	"name": "ngx-intl-tel-input",
 	"version": "3.4.0",
 	"peerDependencies": {
-		"@angular/common": "8.x - 14.x",
-		"@angular/core": "8.x - 14.x",
-		"@angular/forms": "8.x - 14.x",
-		"google-libphonenumber": "^3.2.3",
-		"intl-tel-input": "^17.0.3",
+		"@angular/common": "8.x - 15.x",
+		"@angular/core": "8.x - 15.x",
+		"@angular/forms": "8.x - 15.x",
+		"google-libphonenumber": "^3.2.32",
+		"intl-tel-input": "^17.0.21",
 		"ngx-bootstrap": ">= 6.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/webcat12345/ngx-intl-tel-input"
+		"url": "git+https://github.com/maxcl10/ngx-intl-tel-input"
 	},
 	"author": {
-		"name": "webcat12345",
-		"email": "webcat91@gmail.com"
+		"name": "maxime.matter",
+		"email": "maxime.matter@hotmail.fr"
 	},
 	"keywords": [
 		"angular",
