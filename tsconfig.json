@@ -15,6 +15,9 @@
       "my-lib": [
         "dist/my-lib/my-lib",
         "dist/my-lib"
+      ],
+      "your-library-name": [
+        "dist/your-library-name"
       ]
     },
     "declaration": false,
